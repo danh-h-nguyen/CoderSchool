@@ -1,0 +1,7 @@
+#page {
+  display: flex;
+}
+
+#selectedPage {
+  background-color: red;
+}
